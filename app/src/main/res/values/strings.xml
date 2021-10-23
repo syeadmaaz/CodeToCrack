@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Code To Crack</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be > 5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="forget_email_password">Forget Email/Password ?</string>
+    <string name="register">Register</string>
+    <string name="code_to_crack">Code To Crack</string>
+    <string name="login">LOGIN</string>
+    <string name="proceed">PROCEED</string>
+    <string name="logo">logo</string>
+    <string name="logout">LogOut</string>
+    <string name="app_owner">APP OWNER</string>
+    <string name="syed_maaz">Syed Maaz</string>
+    <string name="code">Code</string>
+    <string name="to_crack">To Crack</string>
+    <string name="get_started">Get Started</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "229797254983",
+    "firebase_url": "https://app-1--login-and-register.firebaseio.com",
+    "project_id": "app-1--login-and-register",
+    "storage_bucket": "app-1--login-and-register.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229797254983:android:25f8ba6d5742e7eca65e62",
+        "android_client_info": {
+          "package_name": "com.codetocrack.App1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229797254983-j4fpm9ueptemcqomtn29aba7m8l342kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBByJe465ZGQcMnPpUUIkKfHfde-4ktsyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229797254983-j4fpm9ueptemcqomtn29aba7m8l342kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
