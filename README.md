@@ -29,6 +29,7 @@ Technologies Used:
 
 Setup Required:
 * Android Studio
+* Google Firebase
 
 ### Copyright Ownership
 ---------------------------------------
