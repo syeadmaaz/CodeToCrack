@@ -8,7 +8,7 @@ This Authentication App consists of 4 Pages:
 * Register Page
 * Dashboard Page/App Owner Page
 
-<img src="Screenshots/1.jpeg" width="230px"> | <img src="Screenshots/2.jpeg" width="230px"> | <img src="Screenshots/3.jpeg" width="230px"> | <img src="Screenshots/4.jpeg" width="230px">
+<img src="Screenshots/1.jpeg" width="235px"> | <img src="Screenshots/2.jpeg" width="235px"> | <img src="Screenshots/3.jpeg" width="235px"> | <img src="Screenshots/4.jpeg" width="235px">
 
 ### Solution Description
 ----------------------------------
